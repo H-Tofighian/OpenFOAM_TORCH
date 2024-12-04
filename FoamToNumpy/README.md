@@ -8,7 +8,7 @@ FoamToNumpy converts OpenFOAM velocity fields (U) and cell centers (cellC) into 
 
 ## Prerequisites
 
-- OpenFOAM (tested with OpenFOAM v2016-2021)
+- OpenFOAM (tested with OpenFOAM v2112)
 - C++ compiler
 - Make
 
