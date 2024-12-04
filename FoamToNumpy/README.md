@@ -21,6 +21,7 @@ git clone https://github.com/H-Tofighian/OpenFOAM_TORCH.git
 
 2. Build the utility:
 ```bash
+cd OpenFOAM_TORCH/FoamToNumpy
 wmake
 ```
 
