@@ -54,7 +54,7 @@ For unstructured meshes, use the cell centers (`cellC_flat_{time}.bin`) to deter
 
 ## License
 
-MIT License - See LICENSE file for details.
+MIT License
 
 ## Author
 
